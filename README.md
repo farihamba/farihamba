@@ -1,16 +1,16 @@
-## Hi there 👋
+# Heyhey! Fariha here~
+🚀 **Aspiring Data Analyst | SQL | Power BI | Python | Excel**  
 
-<!--
-**farihamba/farihamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack  
+- 💾 **SQL** → Writing queries to extract and analyze data  
+- 📊 **Power BI** → Creating interactive dashboards  
+- 📈 **Excel & Python** → Automating workflows & statistical analysis  
 
-Here are some ideas to get you started:
+## 📚 Learning & Growth  
+🔹 Completed **Skillovilla Data Analytics + Python course**  
+🔹 Exploring **advanced SQL, Power BI, and AI**  
+🔹 Looking to collaborate on more Power BI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Looking for more nerds 🌟 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fariha0khan)  
+[![X (X)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/farihamba)   
